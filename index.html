@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+	<head>
+		<title>Pagamento APIX</title>
+		<meta charset="utf-8">
+		<meta name="theme-color" content="#4a2564">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="stylesheet.css">
+		<link rel="manifest" href="manifest.json">
+		<script type="text/javascript" src="sw-register.js"></script>
+	</head>
+
+	<body>
+		<h1>Pagamento APIX</h1>
+
+		<form name="form">
+			<div class="form-container">
+				<div class="form-item form-number">
+					<label>Número do cartão:</label><br>
+					<input name="numero" type="text">
+				</div>
+				<div class="form-item form-date">
+					<label>Validade:</label><br>
+					<input name="validade" type="text">
+				</div>
+				<div class="form-item form-cvv">
+					<label>CVV:</label><br>
+					<input name="cvv" type="text">
+				</div>
+				<div class="form-item form-name">
+					<label>Nome completo (como no cartão):</label><br>
+					<input name="nome" type="text">
+				</div>
+				<div class="form-item form-valor">
+					<label>Valor do Pagamento:</label><br>
+					<input name="valor" type="text">
+				</div>
+				<button name="submit" type="submit">Enviar</button>
+			</div>
+		</form>
+	</body>
+</html>
