@@ -9,6 +9,9 @@
 		<link rel="stylesheet" href="stylesheet.css">
 		<link rel="manifest" href="manifest.json">
 		<script type="text/javascript" src="sw-register.js"></script>
+		<script type="text/javascript" src="app.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 	</head>
 
 	<body>
@@ -18,7 +21,7 @@
 			<div class="form-container">
 				<div class="form-item form-number">
 					<label>Número do cartão:</label><br>
-					<input name="numero" type="text">
+					<input name="numero" id="numeroCartao" type="text" contenteditable="true" onkeypress=validaBin() onchange=validaBin() pattern="^[0-9]*$" maxlength="16">
 				</div>
 				<div class="form-item form-date">
 					<label>Validade:</label><br>
@@ -41,3 +44,15 @@
 		</form>
 	</body>
 </html>
+
+<script>
+	function validaBin(){
+		if(document.getElementById('numeroCartao').value.length>5 && document.getElementById('numeroCartao').value.length<7){
+			var data = fetchValidateBin(document.getElementById('numeroCartao').value.substring(0, 6));
+			
+			console.log(data);
+
+		}
+
+	}
+	</script>
