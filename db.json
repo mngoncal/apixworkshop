@@ -1,0 +1,546 @@
+{
+  "cards":[
+    {
+      "id": "6516536822602139",
+      "cvv": 765, 
+      "dataValidade":"09/19", 
+      "nomePlastico": "Lucas T S Costa",
+      "portador":{
+        "telefone": "+55 (82) 98588-2797",
+        "nome": "Lucas Theo Severino da Costa", 
+        "cpf": "29721580406",
+        "email": "lucas.severino@apix.com"
+          
+      }
+    },
+    {
+      "id": "6516536606201561",
+      "cvv": 123, 
+      "dataValidade":"09/19",
+      "nomePlastico": "Clara L F Oliveira",
+      "portador":{
+        "telefone": "+55 (82) 98781-4713",
+        "nome": "Clara Louise Francisca Oliveira", 
+        "cpf": "71123124850",
+        "email": "clara.fransisca@apix.com"
+          
+      }
+    },
+    {
+      "id": "6516532579917648",
+      "cvv": 123, 
+      "dataValidade":"09/19",
+      "nomePlastico": "Barbara S B Nogueira",
+      "portador":{
+        "telefone": "+55 (82) 99815-3880",
+        "nome": "Barbara Simone Bianca Nogueira", 
+        "cpf": "99445616499",
+        "email": "barbara.nogueira@apix.com"
+          
+      }
+    } 
+    
+  ],
+  "transactions":[
+    {
+      "cardId": 6516536822602139,
+      "valor": "3,822.96",
+      "geolocalizacao": {
+        "latitude": "80.707593",
+        "longitude": "-162.900794"
+      },
+      "codigoPagamento": "da52f953-00be-4a7a-a180-031bb0a8c623",
+      "data": "2018-04-02T01:22:53+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "9,783.29",
+      "geolocalizacao": {
+        "latitude": "-73.13745",
+        "longitude": "-123.544741"
+      },
+      "codigoPagamento": "32e6cc9b-436f-4817-9ce4-100f115b678a",
+      "data": "2015-02-18T18:13:26+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "3,333.39",
+      "geolocalizacao": {
+        "latitude": "4.540787",
+        "longitude": "116.074532"
+      },
+      "codigoPagamento": "86229bee-efc0-4ca2-bdd2-eb209fd09767",
+      "data": "2017-08-04T05:19:09+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "3,821.49",
+      "geolocalizacao": {
+        "latitude": "-64.022657",
+        "longitude": "-173.585498"
+      },
+      "codigoPagamento": "38df630e-969c-445c-960e-02b0a9daa3b3",
+      "data": "2016-09-21T05:34:41+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "6,479.49",
+      "geolocalizacao": {
+        "latitude": "-70.704222",
+        "longitude": "-106.694294"
+      },
+      "codigoPagamento": "12f195cf-994a-4f18-8d89-128d0b48a3f9",
+      "data": "2014-03-10T13:29:36+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "8,753.62",
+      "geolocalizacao": {
+        "latitude": "-75.833251",
+        "longitude": "-16.959854"
+      },
+      "codigoPagamento": "ff8d41dc-876e-41c6-b737-c4b012e49e63",
+      "data": "2016-06-21T17:35:42+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "7,207.63",
+      "geolocalizacao": {
+        "latitude": "27.081784",
+        "longitude": "51.433711"
+      },
+      "codigoPagamento": "01f49b64-09d4-49ec-94ce-1af785d69e1b",
+      "data": "2018-03-13T04:08:37+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "2,553.04",
+      "geolocalizacao": {
+        "latitude": "67.683909",
+        "longitude": "-136.239933"
+      },
+      "codigoPagamento": "767c96c9-5eab-4de4-836c-2bc9d487dced",
+      "data": "2014-11-01T06:09:53+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "5,804.84",
+      "geolocalizacao": {
+        "latitude": "7.418946",
+        "longitude": "130.559682"
+      },
+      "codigoPagamento": "8aebfd02-868c-42d5-9cea-57936e626d4e",
+      "data": "2017-09-06T05:02:08+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "1,018.57",
+      "geolocalizacao": {
+        "latitude": "82.004116",
+        "longitude": "118.340263"
+      },
+      "codigoPagamento": "de03e3e9-36b1-447e-9c80-dde003ea606a",
+      "data": "2017-03-17T05:43:03+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "8,137.82",
+      "geolocalizacao": {
+        "latitude": "-24.727505",
+        "longitude": "-172.026695"
+      },
+      "codigoPagamento": "e80dc3be-24e9-4ffa-a277-58850d506481",
+      "data": "2016-12-10T13:35:05+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "2,611.43",
+      "geolocalizacao": {
+        "latitude": "-52.224821",
+        "longitude": "-83.549211"
+      },
+      "codigoPagamento": "47df640f-6da1-46a8-94c8-0b5f35ba6e1e",
+      "data": "2014-09-16T13:32:18+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "6,344.48",
+      "geolocalizacao": {
+        "latitude": "-88.860445",
+        "longitude": "125.393679"
+      },
+      "codigoPagamento": "a54e566a-2530-48f1-86b1-107cba5ff6e0",
+      "data": "2014-06-22T10:40:14+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "3,111.12",
+      "geolocalizacao": {
+        "latitude": "70.244307",
+        "longitude": "12.914768"
+      },
+      "codigoPagamento": "f4831603-5e0e-45bb-a3e9-d8a5147c38bf",
+      "data": "2018-07-29T02:15:28+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "9,865.12",
+      "geolocalizacao": {
+        "latitude": "-69.012972",
+        "longitude": "0.063917"
+      },
+      "codigoPagamento": "59e44acb-16f7-4991-ac4e-695d6e2b57aa",
+      "data": "2016-12-30T11:37:58+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "1,891.28",
+      "geolocalizacao": {
+        "latitude": "-51.416279",
+        "longitude": "-129.343331"
+      },
+      "codigoPagamento": "5b84f865-391d-4201-aa8a-6eb7a80ac365",
+      "data": "2014-01-21T08:42:43+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "9,960.84",
+      "geolocalizacao": {
+        "latitude": "-64.728796",
+        "longitude": "-167.789819"
+      },
+      "codigoPagamento": "65f9c69a-f3af-4c92-9dd3-817a2333d8a3",
+      "data": "2018-03-06T03:54:00+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "4,275.71",
+      "geolocalizacao": {
+        "latitude": "26.144369",
+        "longitude": "53.510449"
+      },
+      "codigoPagamento": "954b1562-ed29-4154-be87-8bcb81fa19b5",
+      "data": "2018-06-03T18:31:12+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "6,526.95",
+      "geolocalizacao": {
+        "latitude": "50.527154",
+        "longitude": "106.559043"
+      },
+      "codigoPagamento": "3f56dbd0-9093-42b4-92cb-c090b2210e73",
+      "data": "2017-09-30T00:24:31+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "2,326.04",
+      "geolocalizacao": {
+        "latitude": "-88.58172",
+        "longitude": "7.810218"
+      },
+      "codigoPagamento": "7f45826f-71ba-4b61-a28a-e3e3d31c5262",
+      "data": "2018-02-04T17:55:07+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "1,589.74",
+      "geolocalizacao": {
+        "latitude": "-37.540883",
+        "longitude": "32.182155"
+      },
+      "codigoPagamento": "14d31df2-7531-47a9-97e2-f0595030e35e",
+      "data": "2016-12-25T19:44:51+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "3,118.50",
+      "geolocalizacao": {
+        "latitude": "-15.722359",
+        "longitude": "-139.155966"
+      },
+      "codigoPagamento": "769cfb3a-ca19-4a78-8c8b-4d72d9afa6ef",
+      "data": "2016-03-16T05:28:57+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "416.14",
+      "geolocalizacao": {
+        "latitude": "72.990274",
+        "longitude": "-150.690121"
+      },
+      "codigoPagamento": "a64a9954-6d36-4d38-8c96-954b3a043892",
+      "data": "2017-08-24T06:35:44+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "7,730.86",
+      "geolocalizacao": {
+        "latitude": "30.957453",
+        "longitude": "-110.504615"
+      },
+      "codigoPagamento": "477110db-bbea-4b00-a81e-9299575d4e5b",
+      "data": "2017-01-30T17:44:52+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "886.78",
+      "geolocalizacao": {
+        "latitude": "-30.230048",
+        "longitude": "19.665669"
+      },
+      "codigoPagamento": "4140f516-d775-4e27-89ae-fd7e402b14d9",
+      "data": "2016-11-28T09:59:29+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "2,516.74",
+      "geolocalizacao": {
+        "latitude": "-40.01384",
+        "longitude": "-12.194286"
+      },
+      "codigoPagamento": "fe9930d4-abaf-4242-8dce-76c789c4f463",
+      "data": "2018-07-06T20:07:09+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "4,496.36",
+      "geolocalizacao": {
+        "latitude": "30.797089",
+        "longitude": "-60.096851"
+      },
+      "codigoPagamento": "bc1c0539-364a-4456-8ee5-28bcccbae5c7",
+      "data": "2016-05-19T08:53:39+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "6,381.26",
+      "geolocalizacao": {
+        "latitude": "32.622539",
+        "longitude": "124.923472"
+      },
+      "codigoPagamento": "61efa05a-d8ce-4ec1-a1ad-eb7e8662ac32",
+      "data": "2016-12-24T12:20:30+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "2,255.59",
+      "geolocalizacao": {
+        "latitude": "-87.693562",
+        "longitude": "131.516995"
+      },
+      "codigoPagamento": "0da78a36-f31f-4491-b3df-43967bdafefe",
+      "data": "2018-01-28T07:31:05+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "9,963.66",
+      "geolocalizacao": {
+        "latitude": "-89.987139",
+        "longitude": "-115.904611"
+      },
+      "codigoPagamento": "7b5236c1-6ff1-4db5-9409-a1c3f71b1af8",
+      "data": "2016-08-21T13:08:03+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "1,188.47",
+      "geolocalizacao": {
+        "latitude": "-39.075703",
+        "longitude": "-114.867985"
+      },
+      "codigoPagamento": "8bc14131-90e8-453c-a845-4515a8ea471b",
+      "data": "2014-05-09T00:52:35+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "6,760.47",
+      "geolocalizacao": {
+        "latitude": "41.882842",
+        "longitude": "22.042758"
+      },
+      "codigoPagamento": "8392afdb-6ede-4151-9c77-0e49021a8d39",
+      "data": "2017-05-05T10:00:48+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "2,824.90",
+      "geolocalizacao": {
+        "latitude": "40.351655",
+        "longitude": "-172.622497"
+      },
+      "codigoPagamento": "34f9f2bc-b0b8-4392-93bc-25070e767b37",
+      "data": "2017-10-09T16:39:20+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "1,251.07",
+      "geolocalizacao": {
+        "latitude": "-89.227293",
+        "longitude": "82.638136"
+      },
+      "codigoPagamento": "b665d2ac-b350-4376-b300-dacdbfc58836",
+      "data": "2014-12-13T19:16:23+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "5,131.54",
+      "geolocalizacao": {
+        "latitude": "-28.261713",
+        "longitude": "-138.959787"
+      },
+      "codigoPagamento": "58a2cd68-7ae1-435a-a427-8ac9c33c1038",
+      "data": "2017-11-23T10:38:55+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "2,173.36",
+      "geolocalizacao": {
+        "latitude": "-24.984953",
+        "longitude": "-150.377737"
+      },
+      "codigoPagamento": "cf6dfea8-d7ba-4519-8891-45324dd7035b",
+      "data": "2017-10-28T11:53:06+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "4,585.68",
+      "geolocalizacao": {
+        "latitude": "-27.796709",
+        "longitude": "-22.352309"
+      },
+      "codigoPagamento": "422a8d5f-78c3-47fb-9019-d26f59e891e3",
+      "data": "2016-10-26T13:18:27+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "8,782.29",
+      "geolocalizacao": {
+        "latitude": "-64.244723",
+        "longitude": "-93.38319"
+      },
+      "codigoPagamento": "5a167e72-9e48-4c4a-9297-375a9d5fa10a",
+      "data": "2015-07-01T00:59:48+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "9,384.37",
+      "geolocalizacao": {
+        "latitude": "62.995457",
+        "longitude": "-3.102418"
+      },
+      "codigoPagamento": "91cc7b93-5ce3-4f7a-924c-a3f9adb14b52",
+      "data": "2017-11-04T22:18:56+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "9,398.89",
+      "geolocalizacao": {
+        "latitude": "-12.476027",
+        "longitude": "34.134076"
+      },
+      "codigoPagamento": "a2894ae1-f137-4e2a-a6fc-9ea84fb0d5a5",
+      "data": "2017-12-19T17:29:29+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "9,728.08",
+      "geolocalizacao": {
+        "latitude": "24.751627",
+        "longitude": "-124.076824"
+      },
+      "codigoPagamento": "f19c6f7c-22ac-45b1-bbea-85ada0bfd1d4",
+      "data": "2014-11-05T21:10:31+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "3,963.63",
+      "geolocalizacao": {
+        "latitude": "76.914336",
+        "longitude": "-60.474274"
+      },
+      "codigoPagamento": "d0232ddd-a54a-4974-9e1a-279e5b3bb01b",
+      "data": "2014-03-27T21:13:52+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "3,329.43",
+      "geolocalizacao": {
+        "latitude": "7.091759",
+        "longitude": "-161.152594"
+      },
+      "codigoPagamento": "eced2dbc-4ff2-4b0c-925d-c5845599c694",
+      "data": "2017-05-16T07:56:27+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "4,702.42",
+      "geolocalizacao": {
+        "latitude": "40.445416",
+        "longitude": "-156.953868"
+      },
+      "codigoPagamento": "a157dff9-bfe0-4356-9082-4ce99e2c786e",
+      "data": "2014-08-14T14:37:32+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "5,617.06",
+      "geolocalizacao": {
+        "latitude": "-50.567207",
+        "longitude": "2.408187"
+      },
+      "codigoPagamento": "4967a5e3-6987-405d-80e9-310127fe1a67",
+      "data": "2018-04-01T18:10:31+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "4,540.80",
+      "geolocalizacao": {
+        "latitude": "61.378214",
+        "longitude": "35.2181"
+      },
+      "codigoPagamento": "6d5501cf-331d-4ed2-80d8-76a9ea665d94",
+      "data": "2015-06-16T11:20:28+00:00"
+    },
+    {
+      "cardId": 6516532579917648,
+      "valor": "9,434.46",
+      "geolocalizacao": {
+        "latitude": "33.163377",
+        "longitude": "86.387214"
+      },
+      "codigoPagamento": "1155bdf5-90ca-42a2-ae6c-681354073437",
+      "data": "2016-07-28T11:35:03+00:00"
+    },
+    {
+      "cardId": 6516536606201561,
+      "valor": "3,803.83",
+      "geolocalizacao": {
+        "latitude": "-13.800649",
+        "longitude": "26.97715"
+      },
+      "codigoPagamento": "0ac2a5c1-8153-412b-9165-3dae827f1a85",
+      "data": "2018-05-11T09:13:00+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "278.89",
+      "geolocalizacao": {
+        "latitude": "-6.008247",
+        "longitude": "37.989388"
+      },
+      "codigoPagamento": "854b9411-bcec-42d3-b8a3-8fb33853e44e",
+      "data": "2016-11-02T23:53:12+00:00"
+    },
+    {
+      "cardId": 6516536822602139,
+      "valor": "1,837.16",
+      "geolocalizacao": {
+        "latitude": "73.160983",
+        "longitude": "174.51322"
+      },
+      "codigoPagamento": "b8084112-e1c2-4f48-a46d-1ff79002204f",
+      "data": "2017-01-13T00:22:19+00:00"
+    }
+  ]
+}
