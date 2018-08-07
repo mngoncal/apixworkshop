@@ -10,7 +10,7 @@ let fetchPayments = (paymentBody) => {
     })
     .then(function(response) {
     console.log(response);
-    return response.json();
+    return response;
     })
     .then(function(data) {
     console.log(data);
@@ -22,14 +22,14 @@ let fetchPayments = (paymentBody) => {
 }
 
 let fetchValidateBin = (binNumber) => {
- return    fetch("https://hml-api.elo.com.br/graphql", {
+ return    fetch("https://dev-api.elo.com.br/graphql", {
     method: 'POST',
     headers: {
         'Content-type':'application/json',
         'Accept':'application/json', 
         "client_id":"8049be2c-d5f3-3478-985a-fd38cd7eed13"
     },
-    body: JSON.stringify({"query":`query {bin(number:\"${binNumber}\"){ brand{name}}}`})
+    body: JSON.stringify({"query":`query { bin (number:\"${binNumber}\"){ brand { name, image{url, width, height, mimeType}, url} } }`})
     })
     .then(res => res.json().then(resp => resp)).catch(function(err) {
     console.log(err);

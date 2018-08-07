@@ -8,7 +8,7 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	margin: auto;
+	margin: auto auto 20px auto;
 	padding: 20px;
 	width: 80%;
 	max-width: 540px;
@@ -41,6 +41,11 @@ input {
 	.form-cvv { width: 23%; }
 	.form-name { width: 60%; }
 	.form-valor { width: 38%; }
+	.form-telefone { width: 30%; }
+	.form-email { width: 35%; }
+	.form-cpf { width: 25%; }
+	.form-latitude { width: 49%; }
+	.form-longitude { width: 49%; }
 }
 
 .form-number input {
@@ -61,3 +66,9 @@ button {
 }
 
 button:active { background-color: #b8490b; }
+
+
+#numeroCartao.invalido{
+	background-color: #ffdddd;
+
+}
